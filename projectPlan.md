@@ -1,13 +1,13 @@
-# PROJECT PLAN
+# Project Plan
 
-## MEMBERS:
+## Members:
 ### Ben Durkan
-### Johnny Rodgers
+### Johnny Rogers
 ### Robert O'Brien
 
 ![Alt text](https://t4.ftcdn.net/jpg/03/54/00/91/360_F_354009182_Cc6DzlgU402u1bXAGyvXAbmp5EgYAV9D.jpg "Teamwork Image")
 
-## CONTENT (in order):
+## Content (in order):
 1. Task Estimation in Scrum
 2. Code Reviews
 3. Additional Topic (maybe: Risk Management)
