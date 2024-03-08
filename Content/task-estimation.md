@@ -33,3 +33,22 @@ Task Estimation is used for a variety of important reasons:
 -	Controlling Costs. Project managers can create cost estimates using task estimation, which is based on the expected effort and length of jobs. Project managers can take proactive steps to reduce risks and maintain the project within budgetary restrictions by seeing any cost overruns early on. 
 
 -	Risk Management is intrinsically related to Task Estimation. Precise approximations aid in detecting possible hazards linked to timetable setbacks, insufficient resources, or technological difficulties. Project managers can reduce risks and guarantee project success by creating backup plans and allocating resources in accordance with the uncertainty surrounding each activity.
+
+## How to Estimate a Task - Steps Involved:
+1.	Sprint planning meeting. Outline tasks to be completed during sprint.
+2.	Weighting sprint tasks. Team-wide estimation of task length and difficulty.
+3.	Assign tasks to team members.
+4.	Start the sprint, do the work.
+5.	Daily stand-ups with SCRUM master. What have you done? What will you do? Any blockers?
+6.	Sprint demo meeting, showcase work done during sprint.
+7.	Sprint retro, what went well, what can be improved, any comments.
+
+## Important Points to Consider:
+-	When allocating the sizes of a task, best practice is to use the estimates from the actual people doing the work, regardless of what unit of measure used. Don't let a "standard" amount of time someone else may have picked out of selective memory to estimate how long it will take someone else. Us humans suffer from optimism bias that influences greatly and leads us to under-estimate size when attempted to be estimated.
+
+## Task Estimation Lingo Translator:
+-	User Story: A concise, informal description of a feature or functionality from an end user's perspective. It encapsulates the who, what, and why of a particular requirement in a simple, understandable format but is purposely. They are intentionally brief and open-ended, allowing for flexibility and collaboration between development teams and stakeholders. An example of a user story is “As a customer, I want to be able to see the news headlines in a news app so that I can quickly understand what is going on at that particular time”.
+
+-	Story Point: A story point is a unit of measurement for a user story based on factors such as complexity, effort, uncertainty, and risk. It’s recommended that use a non-linear scale, where the gaps in between the values increase as the scale increases such as T-Shirt sizes (S, M, L, XL). This reflects the larger amount of uncertainty and diminishing precision at larger scales. The usual way to estimate a story's size is by analogy. This means to compare with other similar stories. You build up a baseline of the size of a variety of different stories, usually based on knowledge from another project. Each new story is estimated relative to all those already estimated, triangulating the estimations.
+
+-	Epic: A large body of work that encompasses multiple user stories. Epics are high-level features or initiatives that are too broad or complex to be completed in a single version or sprint. They represent a significant chunk of functionality that often requires breaking down into smaller, more manageable pieces for implementation.
