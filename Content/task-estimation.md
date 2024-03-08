@@ -1,5 +1,7 @@
 # Task estimation in SCRUM: 
 
+![picture alt](https://focus.independent.ie/thumbor/k2_DlYS8OJVEETmHVusgZUw0ZTw=/0x1114:1178x1764/1280x853/prod-mh-ireland/60f6ec3e-c1e5-11ed-8014-0210609a3fe2.jpg "SCRUM!")
+
 Sprint planning meeting. Outline tasks to be completed during sprint. 
 
 Weighting sprint tasks. Team-wide estimation of task length and difficulty. 
@@ -43,8 +45,13 @@ Task Estimation is used for a variety of important reasons:
 6.	Sprint demo meeting, showcase work done during sprint.
 7.	Sprint retro, what went well, what can be improved, any comments.
 
+![picture alt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wrfnDY3ycB7MLZ8NmRZMwg.png "SCRUM planning")
+
+
 ## Important Points to Consider:
 -	When allocating the sizes of a task, best practice is to use the estimates from the actual people doing the work, regardless of what unit of measure used. Don't let a "standard" amount of time someone else may have picked out of selective memory to estimate how long it will take someone else. Us humans suffer from optimism bias that influences greatly and leads us to under-estimate size when attempted to be estimated.
+
+-	It is also important that there is consensus among the team when defining tasks. Team members may have differing opinions on how to work on and complete tasks, so it is crucial that the team conduct open discussions and decide as a group what is the best approach to take. Doing this will help the whole team better understand each task at hand, as well as a produce a better-defined set of tasks to complete. 
 
 ## Task Estimation Lingo Translator:
 -	User Story: A concise, informal description of a feature or functionality from an end user's perspective. It encapsulates the who, what, and why of a particular requirement in a simple, understandable format but is purposely. They are intentionally brief and open-ended, allowing for flexibility and collaboration between development teams and stakeholders. An example of a user story is “As a customer, I want to be able to see the news headlines in a news app so that I can quickly understand what is going on at that particular time”.
