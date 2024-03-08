@@ -1,6 +1,6 @@
 # Code Reviews
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.browserstack.com%2Fguide%2Fwhat-is-code-review&psig=AOvVaw3qaAxkhzl3F5SYE4-atMEY&ust=1709846976409000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCc_cHK4IQDFQAAAAAdAAAAABAJ "Code Reviews")
+![Alt text](https://www.bounteous.com/sites/default/files/insights/2019-06/previews/20190606_blog_code_review_limbo-_how_low_should_you_go_website.png "Code Reviews")
 
 ## What are Code Reviews?
 A code review is a process where another developer examines code written by their colleague to ensure its quality and adherence to standards. This involves checking for logic errors, verifying that all requirements are met, assessing the effectiveness of automated tests and ensuring adherence to style guidelines. Code reviews typically occur before merging code into the main development branch to prevent issues from affecting the project's overall codebase.
