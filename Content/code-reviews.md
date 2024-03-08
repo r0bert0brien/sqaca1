@@ -40,3 +40,6 @@ Tool-Assisted Reviews: Various tools and software platforms are available to fac
 - https://www.atlassian.com/agile/software-development/code-reviews
 - https://www.browserstack.com/guide/what-is-code-review
 - https://openpracticelibrary.com/practice/code-review/
+- https://medium.com/ing-blog/are-code-reviews-really-a-waste-of-time-4c7b00fbb3bd
+- https://www.3pillarglobal.com/insights/the-importance-of-code-reviews/
+
