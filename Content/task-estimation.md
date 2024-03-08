@@ -1,4 +1,4 @@
-Task estimation in SCRUM: 
+# Task estimation in SCRUM: 
 
 Sprint planning meeting. Outline tasks to be completed during sprint. 
 
@@ -52,3 +52,10 @@ Task Estimation is used for a variety of important reasons:
 -	Story Point: A story point is a unit of measurement for a user story based on factors such as complexity, effort, uncertainty, and risk. It’s recommended that use a non-linear scale, where the gaps in between the values increase as the scale increases such as T-Shirt sizes (S, M, L, XL). This reflects the larger amount of uncertainty and diminishing precision at larger scales. The usual way to estimate a story's size is by analogy. This means to compare with other similar stories. You build up a baseline of the size of a variety of different stories, usually based on knowledge from another project. Each new story is estimated relative to all those already estimated, triangulating the estimations.
 
 -	Epic: A large body of work that encompasses multiple user stories. Epics are high-level features or initiatives that are too broad or complex to be completed in a single version or sprint. They represent a significant chunk of functionality that often requires breaking down into smaller, more manageable pieces for implementation.
+
+
+## Resources Used
+
+- https://testsigma.com/blog/test-estimation-techniques/
+- https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning
+- https://www.reddit.com/r/agile/comments/1afv1iq/user_story_task_estimation/
