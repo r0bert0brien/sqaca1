@@ -11,3 +11,7 @@ In traditional risk management, the focus is on spotting and dealing with risks 
 
 Enterprise risk management (ERM) looks at risks from all parts of the organization. It understands how risks are connected and how they could affect the organization's goals. ERM makes sure that managing risks fits with the organization's plans and decisions. It involves top managers and the board in deciding which risks are most important. ERM is built into how the organization is run, and it focuses on finding and dealing with risks that could get in the way of reaching big goals. This helps the organization deal with risks before they become big problems and helps it succeed in the long run.
 
+## Lehmans Brothers
+The collapse of Lehman Brothers during the 2008 financial crisis illustrates how traditional risk management failed to address significant financial risks. Despite being a major global investment bank, Lehman's bankruptcy highlighted the inadequacy of its risk management practices. Weaknesses in identifying, assessing, and mitigating risks ultimately led to severe financial consequences. This case emphasizes the importance of continually improving risk management practices, especially in the face of evolving and interconnected risks in the modern business landscape.
+
+
