@@ -1,6 +1,6 @@
 ## Risk Management
 
-![Alt text](![Alt text](https://focus.namirial.global/wp-content/uploads/sites/4/2023/02/RISK-MANAGEMENT.jpg "Teamwork Image"))
+(![Alt text](https://focus.namirial.global/wp-content/uploads/sites/4/2023/02/RISK-MANAGEMENT.jpg "Teamwork Image"))
 
 ## What is Risk Management?
 Risk management is a systematic process of identifying, 
