@@ -1,5 +1,7 @@
 # Code Reviews
 
+
+
 ## What are Code Reviews?
 
 A code review is a process where another developer examines code written by their colleague to ensure its quality and adherence to standards. This involves checking for logic errors, verifying that all requirements are met, assessing the effectiveness of automated tests and ensuring adherence to style guidelines. Code reviews typically occur before merging code into the main development branch to prevent issues from affecting the project's overall codebase.
@@ -19,3 +21,23 @@ Tool-Assisted Reviews: Various tools and software platforms are available to fac
 - Identifying and Preventing Defects: Code reviews act as an extra quality check by helping team members find and fix bugs, errors, and other issues before they impact on the final product. By carefully looking through the code, reviewers can identify potential problems and recommend changes, ensuring that fewer defects reach customers in the end.
 - Knowledge Sharing: Code reviews provide an excellent opportunity for team members to learn from each other. By reviewing code written by their peers, developers gain insights into different coding styles, techniques, and problem-solving approaches. This knowledge sharing not only helps individual team members grow but also strengthens the overall skill set of the team.
 - Continuous Improvement: Code reviews facilitate ongoing growth and development for both individual developers and the entire team. Through feedback received on their code, developers can pinpoint areas for improvement and refine their skills over time.
+
+## How to Do a Code Review:
+1. Preparation: Understand the code changes and task context before the review to ensure effective evaluation.
+2. Set Objectives: Clearly define review goals, focusing on code quality, standards adherence, and project requirements.
+3. Review Code: Carefully examine the code for readability, logic, functionality, and adherence to coding conventions.
+4. Provide Feedback: Offer constructive feedback to the author, emphasizing both strengths and areas for improvement.
+5. Follow-Up and Improve: Document review outcomes, follow up on action items, and seek ways to enhance the review process and collaboration continuously.
+
+## Advantages of Code Reviews:
+1. Improved Code Quality: Code reviews help identify bugs, logic errors, and other issues early in the development process, resulting in higher-quality code.
+2. Knowledge Sharing: Code reviews provide an opportunity for team members to learn from each other, share best practices, and improve their coding skills.
+3. Better Team Collaboration: Collaborative code reviews foster communication and collaboration among team members, leading to a stronger team dynamic and shared understanding of the codebase.
+4. Early Detection of Defects: By catching issues before they reach production, code reviews help prevent bugs and errors from impacting end-users, reducing the cost and effort of fixing them later.
+
+
+
+## Resources Used:
+- https://www.atlassian.com/agile/software-development/code-reviews
+- https://www.browserstack.com/guide/what-is-code-review
+- https://openpracticelibrary.com/practice/code-review/
