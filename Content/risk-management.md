@@ -14,4 +14,12 @@ Enterprise risk management (ERM) looks at risks from all parts of the organizati
 ## Lehmans Brothers
 The collapse of Lehman Brothers during the 2008 financial crisis illustrates how traditional risk management failed to address significant financial risks. Despite being a major global investment bank, Lehman's bankruptcy highlighted the inadequacy of its risk management practices. Weaknesses in identifying, assessing, and mitigating risks ultimately led to severe financial consequences. This case emphasizes the importance of continually improving risk management practices, especially in the face of evolving and interconnected risks in the modern business landscape.
 
+## Resources Used
+
+- https://www.ibm.com/topics/risk-management#:~:text=Risk%20management%20is%20the%20process,an%20organization's%20capital%20and%20earnings.
+- https://www.techtarget.com/searchsecurity/definition/What-is-risk-management-and-why-is-it-important
+- https://www.risk.net/behavioural-risk-management/7563471/case-studies-on-risk-management-failure
+- https://www.parabol.co/blog/agile-estimation-techniques/#:~:text=If%20team%20members%20have%20differing,shared%20understanding%20among%20team%20members.
+- https://www.forbes.com/advisor/education/business-and-marketing/risk-management-careers/
+
 
