@@ -16,14 +16,6 @@ Sprint demo meeting, showcase work done during sprint.
 
 Sprint retro, what went well, what can be improved, any comments. 
 
-  
-
-Notes: 
-
-Story point: A story point is a unit of measurement for a user story based on factors such as complexity, effort, uncertainty, and risk.  
-
-Epic: Epics serve as large bodies of work that can be broken down into smaller and manageable tasks. 
-
 ## What is Task Estimation?
 Task Estimation techniques refer to the methods and approaches used to determine or estimate the effort, time, and resources required for testing activities in software development projects. Estimating the testing effort is crucial for effective project planning, resource allocation, and scheduling. It aids in forecasting and allocation of budget and resources for a project.
 Why do Software Developers Use Task Estimation?
