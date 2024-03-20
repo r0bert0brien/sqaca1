@@ -12,7 +12,7 @@
 2. Code Reviews
 3. Additional Topic (maybe: Risk Management)
 
-## TASKS:
+## Tasks:
 
 ### We have each split up the tasks between us and we meet up every second day.
 
