@@ -1,20 +1,6 @@
-# Task estimation in SCRUM: 
+# Task Estimation in SCRUM: 
 
 ![picture alt](https://focus.independent.ie/thumbor/k2_DlYS8OJVEETmHVusgZUw0ZTw=/0x1114:1178x1764/1280x853/prod-mh-ireland/60f6ec3e-c1e5-11ed-8014-0210609a3fe2.jpg "SCRUM!")
-
-Sprint planning meeting. Outline tasks to be completed during sprint. 
-
-Weighting sprint tasks. Team-wide estimation of task length and difficulty. 
-
-Assign tasks to team members. 
-
-Start the sprint, do the work. 
-
-Daily stand-ups with SCRUM master. What have you done? What will you do? Any blockers? 
-
-Sprint demo meeting, showcase work done during sprint. 
-
-Sprint retro, what went well, what can be improved, any comments. 
 
 ## What is Task Estimation?
 Task Estimation techniques refer to the methods and approaches used to determine or estimate the effort, time, and resources required for testing activities in software development projects. Estimating the testing effort is crucial for effective project planning, resource allocation, and scheduling. It aids in forecasting and allocation of budget and resources for a project.
@@ -58,3 +44,6 @@ Task Estimation is used for a variety of important reasons:
 - https://testsigma.com/blog/test-estimation-techniques/
 - https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning
 - https://www.reddit.com/r/agile/comments/1afv1iq/user_story_task_estimation/
+- https://asana.com/resources/estimation-methods
+- https://www.atlassian.com/agile/project-management/estimation
+

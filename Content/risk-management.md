@@ -11,10 +11,10 @@ In traditional risk management, the focus is on spotting and dealing with risks 
 
 Enterprise risk management (ERM) looks at risks from all parts of the organization. It understands how risks are connected and how they could affect the organization's goals. ERM makes sure that managing risks fits with the organization's plans and decisions. It involves top managers and the board in deciding which risks are most important. ERM is built into how the organization is run, and it focuses on finding and dealing with risks that could get in the way of reaching big goals. This helps the organization deal with risks before they become big problems and helps it succeed in the long run.
 
-## Mitigating risks with good strategies
+## Mitigating Risks with Good Strategies
 Perhaps the best line of defense in terms of risk is to develop mitigation strategies for each risk identified. These strategies could involve taking proactive measures to reduce the likelihood of the risk occurring or minimize its impact if it does occur. For example, this could include allocating additional resources, breaking down tasks into smaller, more manageable pieces, implementing contingency plans, or setting up early warning systems. An organisation that adopts strategies such as these is more likely to manage risk better if and when it occurs.
 
-## Lehmans Brothers
+## Case Study: Lehmans Brothers
 
 ![Alt text](https://www.marketplace.org/wp-content/uploads/2018/09/GettyImages-104396071.jpg?w=720 "Lehmann Brothers collapse")
 

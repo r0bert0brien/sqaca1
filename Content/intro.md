@@ -1,7 +1,7 @@
 ## Introduction
 Good sprint standards and structure is imperative to the success of a development project. This report outlines several practises that help an organisation produce high-quality products efficiently.
 
-## Contents of report: 
+## Contents of Report: 
 
 - Task Estimation: Describes how a development team estimate, rate and assign various tasks within the project.
 
@@ -9,7 +9,7 @@ Good sprint standards and structure is imperative to the success of a developmen
 
 - Risk Management: Details what risk management is and the difference in traditional vs enterprise risk management. This section also contains information on how to mitigate risk as well as a case study on the subject.   
 
-## Team contributions
+## Team Contributions
 
 | Team Member    | Contribution                                                                                                                                                                                                                                                                                                                  | Verified By    |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
