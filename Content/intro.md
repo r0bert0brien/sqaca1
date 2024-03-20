@@ -45,9 +45,9 @@ Good sprint standards and structure is imperative to the success of a developmen
 ## Sprint Retrospective
 
 | What went well?                                                   | What went less well?                                | What could improve be improved?                                                  |
+|-------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------------|
 | The team met regularly                                            | Initial understanding of 'git pull' and 'git merge' | A release branch should have been implemented                                    |
 | Work was divided up fairly                                        |                                                     | Could have used 'bug-fix' or 'update' branches when changing/correcting content  |
 | The team developed a better idea of the git process               |                                                     |                                                                                  |
 | Basic git commands ('clone', 'status', 'add', 'commit', 'push')   |                                                     |                                                                                  |
 | Research process                                                  |                                                     |                                                                                  |
-
