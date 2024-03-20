@@ -42,7 +42,7 @@ Good sprint standards and structure is imperative to the success of a developmen
 |               | - Reviewed Code Reviews.                                                                                  |                 |
 
 
-## Sprint retrospective
+## Sprint Retrospective
 
 | What went well?                                                   | What went less well?                                | What could improve be improved?                                                  |
 |-------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------------|
@@ -52,3 +52,4 @@ Good sprint standards and structure is imperative to the success of a developmen
 | The team developed a better idea of the git process               |                                                     |                                                                                  |
 | Basic git commands ('clone', 'status', 'add', 'commit', 'push')   |                                                     |                                                                                  |
 | Research process                                                  |                                                     |                                                                                  |
+=======
